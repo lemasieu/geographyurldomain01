@@ -1,0 +1,1244 @@
+{
+    "continence": [
+      {
+          "continence": "Africa",
+          "domain": [".africa"]
+      },
+      {
+          "continence": "Asia",
+          "domain": [".asia"]
+      },
+      {
+         "continence": "Arab",
+         "domain": [".arab"]
+      },
+      {
+         "continence": "Latin America",
+         "domain": [".lat"]
+      }
+    ],
+    "country": [
+      {
+          "country": "Ascension Island (UK)",
+          "domain": [".ac"]
+      },
+      {
+          "country": "Andorra",
+          "domain": [".ad"]
+      },
+      {
+          "country": "United Arab Emirates",
+          "domain": [".ae",".امارات",".xn--mgbaam7a8h"]
+      },
+      {
+          "country": "Afghanistan",
+          "domain": [".af"]
+      },
+      {
+          "country": "Antigua and Barbuda",
+          "domain": [".ag"]
+      },
+      {
+          "country": "Anguilla (UK)",
+          "domain": [".ai"]
+      },
+      {
+          "country": "Albania",
+          "domain": [".al"]
+      },
+      {
+          "country": "Armenia",
+          "domain": [".am",".հայ",".xn--y9a3aq"]
+      },
+      {
+          "country": "Angola",
+          "domain": [".ao"]
+      },
+      {
+          "country": "Antarctica",
+          "domain": [".aq"]
+      },
+      {
+          "country": "Argentina",
+          "domain": [".ar"]
+      },
+      {
+          "country": "American Samoa (US)",
+          "domain": [".as"]
+      },
+      {
+          "country": "Austria",
+          "domain": [".at"]
+      },
+      {
+          "country": "Australia",
+          "domain": [".au"]
+      },
+      {
+          "country": "Aruba (Kingdom of the Netherlands)",
+          "domain": [".aw"]
+      },
+      {
+          "country": "Åland (Finland)",
+          "domain": [".ax"]
+      },
+      {
+          "country": "Azerbaijan",
+          "domain": [".az"]
+      },
+      {
+          "country": "Bosnia and Herzegovina",
+          "domain": [".ba"]
+      },
+      {
+          "country": "Barbados",
+          "domain": [".bb"]
+      },
+      {
+          "country": "Bangladesh",
+          "domain": [".bd",".বাংলা",".xn--54b7fta0cc"]
+      },
+      {
+          "country": "Belgium",
+          "domain": [".be"]
+      },
+      {
+          "country": "Burkina Faso",
+          "domain": [".bf"]
+      },
+      {
+          "country": "Bulgaria",
+          "domain": [".bg",".бг",".xn--90ae"]
+      },
+      {
+          "country": "Bahrain",
+          "domain": [".bh",".البحرين",".xn--mgbcpq6gpa1a"]
+      },
+      {
+          "country": "Burundi",
+          "domain": [".bi"]
+      },
+      {
+          "country": "Benin",
+          "domain": [".bj"]
+      },
+      {
+          "country": "Bermuda (UK)",
+          "domain": [".bm"]
+      },
+      {
+          "country": "Brunei",
+          "domain": [".bn"]
+      },
+      {
+          "country": "Bolivia",
+          "domain": [".bo"]
+      },
+      {
+          "country": "Caribbean Netherlands ( Bonaire,  Saba, and  Sint Eustatius)",
+          "domain": [".bq"]
+      },
+      {
+          "country": "Brazil",
+          "domain": [".br"]
+      },
+      {
+          "country": "Bahamas",
+          "domain": [".bs"]
+      },
+      {
+          "country": "Bhutan",
+          "domain": [".bt"]
+      },
+      {
+          "country": "Botswana",
+          "domain": [".bw"]
+      },
+      {
+          "country": "Belarus",
+          "domain": [".by",".бел",".xn--90ais"]
+      },
+      {
+          "country": "Belize",
+          "domain": [".bz"]
+      },
+      {
+          "country": "Canada",
+          "domain": [".ca"]
+      },
+      {
+          "country": "Cocos (Keeling) Islands",
+          "domain": [".cc"]
+      },
+      {
+          "country": "Democratic Republic of the Congo",
+          "domain": [".cd"]
+      },
+      {
+          "country": "Central African Republic",
+          "domain": [".cf"]
+      },
+      {
+          "country": "Republic of the Congo",
+          "domain": [".cg"]
+      },
+      {
+          "country": "Switzerland",
+          "domain": [".ch",".swiss"]
+      },
+      {
+          "country": "Ivory Coast",
+          "domain": [".ci"]
+      },
+      {
+          "country": "Cook Islands",
+          "domain": [".ck"]
+      },
+      {
+          "country": "Chile",
+          "domain": [".cl"]
+      },
+      {
+          "country": "Cameroon",
+          "domain": [".cm"]
+      },
+      {
+          "country": "People's Republic of China",
+          "domain": [".cn",".中国",".xn--fiqs8s",".中國",".xn--fiqz9s"]
+      },
+      {
+          "country": "Colombia",
+          "domain": [".co"]
+      },
+      {
+          "country": "Costa Rica",
+          "domain": [".cr"]
+      },
+      {
+          "country": "Cuba",
+          "domain": [".cu"]
+      },
+      {
+          "country": "Cape Verde",
+          "domain": [".cv"]
+      },
+      {
+          "country": "Curaçao (Kingdom of the Netherlands)",
+          "domain": [".cw"]
+      },
+      {
+          "country": "Christmas Island",
+          "domain": [".cx"]
+      },
+      {
+          "country": "Cyprus",
+          "domain": [".cy"]
+      },
+      {
+          "country": "Czech Republic",
+          "domain": [".cz"]
+      },
+      {
+          "country": "Germany",
+          "domain": [".de"]
+      },
+      {
+          "country": "Djibouti",
+          "domain": [".dj"]
+      },
+      {
+          "country": "Denmark",
+          "domain": [".dk"]
+      },
+      {
+          "country": "Dominica",
+          "domain": [".dm"]
+      },
+      {
+          "country": "Dominican Republic",
+          "domain": [".do"]
+      },
+      {
+          "country": "Algeria",
+          "domain": [".dz",".الجزائر",".xn--lgbbat1ad8j"]
+      },
+      {
+          "country": "Ecuador",
+          "domain": [".ec"]
+      },
+      {
+          "country": "Estonia",
+          "domain": [".ee"]
+      },
+      {
+          "country": "Egypt",
+          "domain": [".eg",".مصر",".xn--wgbh1c"]
+      },
+      {
+          "country": "Western Sahara",
+          "domain": [".eh"]
+      },
+      {
+          "country": "Eritrea",
+          "domain": [".er"]
+      },
+      {
+          "country": "Spain",
+          "domain": [".es"]
+      },
+      {
+          "country": "Ethiopia",
+          "domain": [".et"]
+      },
+      {
+          "country": "European Union",
+          "domain": [".eu",".ею",".xn--e1a4c",".ευ",".xn--qxa6a"]
+      },
+      {
+          "country": "Finland",
+          "domain": [".fi"]
+      },
+      {
+          "country": "Fiji",
+          "domain": [".fj"]
+      },
+      {
+          "country": "Falkland Islands (UK)",
+          "domain": [".fk"]
+      },
+      {
+          "country": "Federated States of Micronesia",
+          "domain": [".fm"]
+      },
+      {
+          "country": "Faroe Islands (Kingdom of Denmark)",
+          "domain": [".fo"]
+      },
+      {
+          "country": "France",
+          "domain": [".fr"]
+      },
+      {
+          "country": "Gabon",
+          "domain": [".ga"]
+      },
+      {
+          "country": "Grenada",
+          "domain": [".gd"]
+      },
+      {
+          "country": "Georgia",
+          "domain": [".ge",".გე",".xn--node"]
+      },
+      {
+          "country": "French Guiana (France)",
+          "domain": [".gf"]
+      },
+      {
+          "country": "Guernsey",
+          "domain": [".gg"]
+      },
+      {
+          "country": "Ghana",
+          "domain": [".gh"]
+      },
+      {
+          "country": "Gibraltar (UK)",
+          "domain": [".gi"]
+      },
+      {
+          "country": "Greenland (Kingdom of Denmark)",
+          "domain": [".gl"]
+      },
+      {
+          "country": "The Gambia",
+          "domain": [".gm"]
+      },
+      {
+          "country": "Guinea",
+          "domain": [".gn"]
+      },
+      {
+          "country": "Guadeloupe (France)",
+          "domain": [".gp"]
+      },
+      {
+          "country": "Equatorial Guinea",
+          "domain": [".gq"]
+      },
+      {
+          "country": "Greece",
+          "domain": [".gr",".ελ",".xn--qxam"]
+      },
+      {
+          "country": "South Georgia and the South Sandwich Islands (UK)",
+          "domain": [".gs"]
+      },
+      {
+          "country": "Guatemala",
+          "domain": [".gt"]
+      },
+      {
+          "country": "Guam (US)",
+          "domain": [".gu"]
+      },
+      {
+          "country": "Guinea-Bissau",
+          "domain": [".gw"]
+      },
+      {
+          "country": "Guyana",
+          "domain": [".gy"]
+      },
+      {
+          "country": "Hong Kong",
+          "domain": [".hk",".香港",".xn--j6w193g"]
+      },
+      {
+          "country": "Heard Island and McDonald Islands",
+          "domain": [".hm"]
+      },
+      {
+          "country": "Honduras",
+          "domain": [".hn"]
+      },
+      {
+          "country": "Croatia",
+          "domain": [".hr"]
+      },
+      {
+          "country": "Haiti",
+          "domain": [".ht"]
+      },
+      {
+          "country": "Hungary",
+          "domain": [".hu"]
+      },
+      {
+          "country": "Indonesia",
+          "domain": [".id"]
+      },
+      {
+          "country": "Ireland",
+          "domain": [".ie",".irish"]
+      },
+      {
+          "country": "Israel",
+          "domain": [".il",".ישראל",".xn--4dbrk0ce"]
+      },
+      {
+          "country": "Isle of Man",
+          "domain": [".im"]
+      },
+      {
+          "country": "India",
+          "domain": [".in",".भारत",".xn--h2brj9c",".భారత్",".xn--fpcrj9c3d",".ભારત",".xn--gecrj9c",".ਭਾਰਤ",".xn--s9brj9c",".இந்தியா",".xn--xkc2dl3a5ee0h",".ভারত",".xn--45brj9c",".ಭಾರತ",".xn--2scrj9c",".ഭാരതം",".xn--rvc1e0am3e",".ভাৰত",".xn--45br5cyl",".ଭାରତ",".xn--3hcrj9c",".भारतम्",".xn--h2breg3eve",".भारोत",".xn--h2brj9c8c",".بھارت",".xn--mgbbh1a71e",".بارت",".xn--mgbbh1a",".ڀارت",".xn--mgbgu82a"]
+      },
+      {
+          "country": "British Indian Ocean Territory (UK)",
+          "domain": [".io"]
+      },
+      {
+          "country": "Iraq",
+          "domain": [".iq",".عراق",".xn--mgbtx2b"]
+      },
+      {
+          "country": "Iran",
+          "domain": [".ir",".ایران",".xn--mgba3a4f16a"]
+      },
+      {
+          "country": "Iceland",
+          "domain": [".is"]
+      },
+      {
+          "country": "Italy",
+          "domain": [".it"]
+      },
+      {
+          "country": "Jersey",
+          "domain": [".je"]
+      },
+      {
+          "country": "Jamaica",
+          "domain": [".jm"]
+      },
+      {
+          "country": "Jordan",
+          "domain": [".jo",".الاردن",".xn--mgbayh7gpa"]
+      },
+      {
+          "country": "Japan",
+          "domain": [".jp",".日本",".xn--wgv71a",".日本国",".xn--vcst06ab2a"]
+      },
+      {
+          "country": "Kenya",
+          "domain": [".ke"]
+      },
+      {
+          "country": "Kyrgyzstan",
+          "domain": [".kg"]
+      },
+      {
+          "country": "Cambodia",
+          "domain": [".kh"]
+      },
+      {
+          "country": "Kiribati",
+          "domain": [".ki"]
+      },
+      {
+          "country": "Comoros",
+          "domain": [".km"]
+      },
+      {
+          "country": "Saint Kitts and Nevis",
+          "domain": [".kn"]
+      },
+      {
+          "country": "North Korea",
+          "domain": [".kp"]
+      },
+      {
+          "country": "South Korea",
+          "domain": [".kr",".한국",".xn--3e0b707e"]
+      },
+      {
+          "country": "Kuwait",
+          "domain": [".kw"]
+      },
+      {
+          "country": "Cayman Islands (UK)",
+          "domain": [".ky"]
+      },
+      {
+          "country": "Kazakhstan",
+          "domain": [".kz",".қаз",".xn--80ao21a"]
+      },
+      {
+          "country": "Laos",
+          "domain": [".la",".ລາວ",".xn--q7ce6a"]
+      },
+      {
+          "country": "Lebanon",
+          "domain": [".lb"]
+      },
+      {
+          "country": "Saint Lucia",
+          "domain": [".lc"]
+      },
+      {
+          "country": "Liechtenstein",
+          "domain": [".li"]
+      },
+      {
+          "country": "Sri Lanka",
+          "domain": [".lk",".ලංකා",".xn--fzc2c9e2c",".இலங்கை",".xn--xkc2al3hye2a"]
+      },
+      {
+          "country": "Liberia",
+          "domain": [".lr"]
+      },
+      {
+          "country": "Lesotho",
+          "domain": [".ls"]
+      },
+      {
+          "country": "Lithuania",
+          "domain": [".lt"]
+      },
+      {
+          "country": "Luxembourg",
+          "domain": [".lu"]
+      },
+      {
+          "country": "Latvia",
+          "domain": [".lv"]
+      },
+      {
+          "country": "Libya",
+          "domain": [".ly",".ليبيا",".xn--mgbb7fyab"]
+      },
+      {
+          "country": "Morocco",
+          "domain": [".ma",".المغرب",".xn--mgbc0a9azcg"]
+      },
+      {
+          "country": "Monaco",
+          "domain": [".mc"]
+      },
+      {
+          "country": "Moldova",
+          "domain": [".md"]
+      },
+      {
+          "country": "Montenegro",
+          "domain": [".me"]
+      },
+      {
+          "country": "Madagascar",
+          "domain": [".mg"]
+      },
+      {
+          "country": "Marshall Islands",
+          "domain": [".mh"]
+      },
+      {
+          "country": "North Macedonia",
+          "domain": [".mk",".мкд",".xn--d1alf"]
+      },
+      {
+          "country": "Mali",
+          "domain": [".ml"]
+      },
+      {
+          "country": "Myanmar",
+          "domain": [".mm"]
+      },
+      {
+          "country": "Mongolia",
+          "domain": [".mn",".мон",".xn--l1acc"]
+      },
+      {
+          "country": "Macau",
+          "domain": [".mo",".澳门",".xn--mix082f",".澳門",".xn--mix891f"]
+      },
+      {
+          "country": "Northern Mariana Islands (US)",
+          "domain": [".mp"]
+      },
+      {
+          "country": "Martinique (France)",
+          "domain": [".mq"]
+      },
+      {
+          "country": "Mauritania",
+          "domain": [".mr",".موريتانيا",".xn--mgbah1a3hjkrd"]
+      },
+      {
+          "country": "Montserrat (UK)",
+          "domain": [".ms"]
+      },
+      {
+          "country": "Malta",
+          "domain": [".mt"]
+      },
+      {
+          "country": "Mauritius",
+          "domain": [".mu"]
+      },
+      {
+          "country": "Maldives",
+          "domain": [".mv"]
+      },
+      {
+          "country": "Malawi",
+          "domain": [".mw"]
+      },
+      {
+          "country": "Mexico",
+          "domain": [".mx"]
+      },
+      {
+          "country": "Malaysia",
+          "domain": [".my",".مليسيا",".xn--mgbx4cd0ab"]
+      },
+      {
+          "country": "Mozambique",
+          "domain": [".mz"]
+      },
+      {
+          "country": "Namibia",
+          "domain": [".na"]
+      },
+      {
+          "country": "New Caledonia (France)",
+          "domain": [".nc"]
+      },
+      {
+          "country": "Niger",
+          "domain": [".ne"]
+      },
+      {
+          "country": "Norfolk Island",
+          "domain": [".nf"]
+      },
+      {
+          "country": "Nigeria",
+          "domain": [".ng"]
+      },
+      {
+          "country": "Nicaragua",
+          "domain": [".ni"]
+      },
+      {
+          "country": "Netherlands",
+          "domain": [".nl"]
+      },
+      {
+          "country": "Norway",
+          "domain": [".no"]
+      },
+      {
+          "country": "Nepal",
+          "domain": [".np"]
+      },
+      {
+          "country": "Nauru",
+          "domain": [".nr"]
+      },
+      {
+          "country": "Niue",
+          "domain": [".nu"]
+      },
+      {
+          "country": "New Zealand",
+          "domain": [".nz"]
+      },
+      {
+          "country": "Oman",
+          "domain": [".om",".عمان",".xn--mgb9awbf"]
+      },
+      {
+          "country": "Panama",
+          "domain": [".pa"]
+      },
+      {
+          "country": "Peru",
+          "domain": [".pe"]
+      },
+      {
+          "country": "French Polynesia (France)",
+          "domain": [".pf"]
+      },
+      {
+          "country": "Papua New Guinea",
+          "domain": [".pg"]
+      },
+      {
+          "country": "Philippines",
+          "domain": [".ph"]
+      },
+      {
+          "country": "Pakistan",
+          "domain": [".pk",".پاکستان",".xn--mgbai9azgqp6j"]
+      },
+      {
+          "country": "Poland",
+          "domain": [".pl"]
+      },
+      {
+          "country": "Saint-Pierre and Miquelon (France)",
+          "domain": [".pm"]
+      },
+      {
+          "country": "Pitcairn Islands (UK)",
+          "domain": [".pn"]
+      },
+      {
+          "country": "Puerto Rico (US)",
+          "domain": [".pr"]
+      },
+      {
+          "country": "Palestine",
+          "domain": [".ps",".فلسطين",".xn--ygbi2ammx"]
+      },
+      {
+          "country": "Portugal",
+          "domain": [".pt"]
+      },
+      {
+          "country": "Palau",
+          "domain": [".pw"]
+      },
+      {
+          "country": "Paraguay",
+          "domain": [".py"]
+      },
+      {
+          "country": "Qatar",
+          "domain": [".qa",".قطر",".xn--wgbl6a"]
+      },
+      {
+          "country": "Réunion (France)",
+          "domain": [".re"]
+      },
+      {
+          "country": "Romania",
+          "domain": [".ro"]
+      },
+      {
+          "country": "Serbia",
+          "domain": [".rs",".срб",".xn--90a3ac"]
+      },
+      {
+          "country": "Russia",
+          "domain": [".ru",".рф",".xn--p1ai"]
+      },
+      {
+          "country": "Rwanda",
+          "domain": [".rw"]
+      },
+      {
+          "country": "Saudi Arabia",
+          "domain": [".sa",".السعودية",".xn--mgberp4a5d4ar"]
+      },
+      {
+          "country": "Solomon Islands",
+          "domain": [".sb"]
+      },
+      {
+          "country": "Seychelles",
+          "domain": [".sc"]
+      },
+      {
+          "country": "Sudan",
+          "domain": [".sd",".سودان",".xn--mgbpl2fh"]
+      },
+      {
+          "country": "Sweden",
+          "domain": [".se"]
+      },
+      {
+          "country": "Singapore",
+          "domain": [".sg",".新加坡",".xn--yfro4i67o",".சிங்கப்பூர்",".xn--clchc0ea0b2g2a9gcd"]
+      },
+      {
+          "country": "Saint Helena, Ascension and Tristan da Cunha (UK)",
+          "domain": [".sh"]
+      },
+      {
+          "country": "Slovenia",
+          "domain": [".si"]
+      },
+      {
+          "country": "Slovakia",
+          "domain": [".sk"]
+      },
+      {
+          "country": "Sierra Leone",
+          "domain": [".sl"]
+      },
+      {
+          "country": "San Marino",
+          "domain": [".sm"]
+      },
+      {
+          "country": "Senegal",
+          "domain": [".sn"]
+      },
+      {
+          "country": "Somalia",
+          "domain": [".so"]
+      },
+      {
+          "country": "Suriname",
+          "domain": [".sr"]
+      },
+      {
+          "country": "South Sudan",
+          "domain": [".ss"]
+      },
+      {
+          "country": "São Tomé and Príncipe",
+          "domain": [".st"]
+      },
+      {
+          "country": "Soviet Union",
+          "domain": [".su"]
+      },
+      {
+          "country": "El Salvador",
+          "domain": [".sv"]
+      },
+      {
+          "country": "Sint Maarten (Kingdom of the Netherlands)",
+          "domain": [".sx"]
+      },
+      {
+          "country": "Syria",
+          "domain": [".sy",".سورية",".xn--ogbpf8fl"]
+      },
+      {
+          "country": "Eswatini",
+          "domain": [".sz"]
+      },
+      {
+          "country": "Turks and Caicos Islands (UK)",
+          "domain": [".tc"]
+      },
+      {
+          "country": "Chad",
+          "domain": [".td"]
+      },
+      {
+          "country": "French Southern and Antarctic Lands",
+          "domain": [".tf"]
+      },
+      {
+          "country": "Togo",
+          "domain": [".tg"]
+      },
+      {
+          "country": "Thailand",
+          "domain": [".th",".ไทย",".xn--o3cw4h"]
+      },
+      {
+          "country": "Tajikistan",
+          "domain": [".tj"]
+      },
+      {
+          "country": "Tokelau",
+          "domain": [".tk"]
+      },
+      {
+          "country": "East Timor",
+          "domain": [".tl"]
+      },
+      {
+          "country": "Turkmenistan",
+          "domain": [".tm"]
+      },
+      {
+          "country": "Tunisia",
+          "domain": [".tn",".تونس",".xn--pgbs0dh"]
+      },
+      {
+          "country": "Tonga",
+          "domain": [".to"]
+      },
+      {
+          "country": "Turkey",
+          "domain": [".tr"]
+      },
+      {
+          "country": "Trinidad and Tobago",
+          "domain": [".tt"]
+      },
+      {
+          "country": "Tuvalu",
+          "domain": [".tv"]
+      },
+      {
+          "country": "Taiwan",
+          "domain": [".tw",".台湾",".xn--kprw13d",".台灣",".xn--kpry57d"]
+      },
+      {
+          "country": "Tanzania",
+          "domain": [".tz"]
+      },
+      {
+          "country": "Ukraine",
+          "domain": [".ua",".укр",".xn--j1amh"]
+      },
+      {
+          "country": "Uganda",
+          "domain": [".ug"]
+      },
+      {
+          "country": "UK",
+          "domain": [".uk"]
+      },
+      {
+          "country": "US of America",
+          "domain": [".us"]
+      },
+      {
+          "country": "Uruguay",
+          "domain": [".uy"]
+      },
+      {
+          "country": "Uzbekistan",
+          "domain": [".uz"]
+      },
+      {
+          "country": "Vatican City",
+          "domain": [".va"]
+      },
+      {
+          "country": "Saint Vincent and the Grenadines",
+          "domain": [".vc"]
+      },
+      {
+          "country": "Venezuela",
+          "domain": [".ve"]
+      },
+      {
+          "country": "British Virgin Islands (UK)",
+          "domain": [".vg"]
+      },
+      {
+          "country": "US Virgin Islands (US)",
+          "domain": [".vi"]
+      },
+      {
+          "country": "Vietnam",
+          "domain": [".vn"]
+      },
+      {
+          "country": "Vanuatu",
+          "domain": [".vu"]
+      },
+      {
+          "country": "Wallis and Futuna",
+          "domain": [".wf"]
+      },
+      {
+          "country": "Samoa",
+          "domain": [".ws"]
+      },
+      {
+          "country": "Kosovo",
+          "domain": [".xk"]
+      },
+      {
+          "country": "Yemen",
+          "domain": [".ye",".اليمن",".xn--mgb2ddes"]
+      },
+      {
+          "country": "Mayotte",
+          "domain": [".yt"]
+      },
+      {
+          "country": "South Africa",
+          "domain": [".za"]
+      },
+      {
+          "country": "Zambia",
+          "domain": [".zm"]
+      },
+      {
+          "country": "Zimbabwe",
+          "domain": [".zw"]
+      }
+    ],
+    "city":[
+        {
+            "city": "Cape Town, South Africa",
+            "domain": [".capetown"]
+        },
+        {
+            "city": "Durban, South Africa",
+            "domain": [".durban"]
+        },
+        {
+            "city": "Johannesburg, South Africa",
+            "domain": [".joburg"]
+        },
+        {
+            "city": "Abu Dhabi, UAE",
+            "domain": [".abudhabi"]
+        },
+        {
+            "city": "Doha, Qatar",
+            "domain": [".doha"]
+        },
+        {
+            "city": "Dubai, UAE",
+            "domain": [".dubai"]
+        },
+        {
+            "city": "Kurdistan, Iraq",
+            "domain": [".krd"]
+        },
+        {
+            "city": "Kyoto, Japan",
+            "domain": [".kyoto"]
+        },
+        {
+            "city": "Nagoya, Japan",
+            "domain": [".nagoya"]
+        },
+        {
+            "city": "Okinawa, Japan",
+            "domain": [".okinawa"]
+        },
+        {
+            "city": "Osaka, Japan",
+            "domain": [".osaka"]
+        },
+        {
+            "city": "Ryukyu Islands, Japan",
+            "domain": [".ryukyu"]
+        },
+        {
+            "city": "Taipei, Taiwan",
+            "domain": [".taipei"]
+        },
+        {
+            "city": "Tokyo, Japan",
+            "domain": [".tokyo"]
+        },
+        {
+            "city": "Yokohama, Japan",
+            "domain": [".yokohama"]
+        },
+        {
+            "city": "Alsace, France",
+            "domain": [".alsace"]
+        },
+        {
+            "city": "Brittany, France",
+            "domain": [".bzh"]
+        },
+        {
+            "city": "Corsica, France",
+            "domain": [".corsica"]
+        },
+        {
+            "city": "Basque, Spain & France",
+            "domain": [".eus"]
+        },
+        {
+            "city": "Paris, France",
+            "domain": [".paris"]
+        },
+        {
+            "city": "Barcelona, Spain",
+            "domain": [".bcn",".barcelona"]
+        },
+        {
+            "city": "Catalonia, Spain",
+            "domain": [".cat"]
+        },
+        {
+            "city": "Galicia, Spain",
+            "domain": [".gal"]
+        },
+        {
+            "city": "Madrid, Spain",
+            "domain": [".madrid"]
+        },
+        {
+            "city": "Bavaria, Germany",
+            "domain": [".bayern"]
+        },
+        {
+            "city": "Berlin, Germany",
+            "domain": [".berlin"]
+        },
+        {
+            "city": "Cologne, Germany",
+            "domain": [".cologne",".koeln"]
+        },
+        {
+            "city": "Hamburg, Germany",
+            "domain": [".hamburg"]
+        },
+        {
+            "city": "North Rhine-Westphalia, Germany",
+            "domain": [".nrw"]
+        },
+        {
+            "city": "Ruhr, Germany",
+            "domain": [".ruhr"]
+        },
+        {
+            "city": "Saarland, Germany",
+            "domain": [".saarland"]
+        },
+        {
+            "city": "Amsterdam, Netherlands",
+            "domain": [".amsterdam"]
+        },
+        {
+            "city": "Bar, Montenegro",
+            "domain": [".bar"]
+        },
+        {
+            "city": "Brussels, Belgium",
+            "domain": [".brussels"]
+        },
+        {
+            "city": "Wales, UK",
+            "domain": [".cymru",".wales"]
+        },
+        {
+            "city": "Friesland, Netherlands",
+            "domain": [".frl"]
+        },
+        {
+            "city": "Ghent, Belgium",
+            "domain": [".gent"]
+        },
+        {
+            "city": "Helsinki, Finland",
+            "domain": [".helsinki"]
+        },
+        {
+            "city": "İstanbul, Turkiye",
+            "domain": [".ist",".istanbul"]
+        },
+        {
+            "city": "London, UK",
+            "domain": [".london"]
+        },
+        {
+            "city": "Moscow, Russia",
+            "domain": [".moscow",".москва",".xn--80adxhks"]
+        },
+        {
+            "city": "Scotland, UK",
+            "domain": [".scot"]
+        },
+        {
+            "city": "Stockholm, Sweden",
+            "domain": [".stockholm"]
+        },
+        {
+            "city": "Tatarstan, Russia",
+            "domain": [".tatar"]
+        },
+        {
+            "city": "Tyrol, Austria",
+            "domain": [".tirol"]
+        },
+        {
+            "city": "Flanders, Belgium",
+            "domain": [".vlaanderen"]
+        },
+        {
+            "city": "Vienna, Austria",
+            "domain": [".wien"]
+        },
+        {
+            "city": "Zurich, Switzerland",
+            "domain": [".zuerich"]
+        },
+        {
+            "city": "Boston, Massachusetts, US",
+            "domain": [".boston"]
+        },
+        {
+            "city": "Miami, Florida, US",
+            "domain": [".miami"]
+        },
+        {
+            "city": "New York City, New York, US",
+            "domain": [".nyc"]
+        },
+        {
+            "city": "Quebec, Canada",
+            "domain": [".quebec"]
+        },
+        {
+            "city": "Las Vegas, Nevada, US",
+            "domain": [".vegas"]
+        },
+        {
+            "city": "Melbourne, Australia",
+            "domain": [".melbourne"]
+        },
+        {
+            "city": "Sydney, Australia",
+            "domain": [".sydney"]
+        },
+        {
+            "city": "New Zealanders",
+            "domain": [".kiwi"]
+        },
+        {
+            "city": "Rio de Janeiro, Brazil",
+            "domain": [".rio"]
+        }
+    ]
+  }
